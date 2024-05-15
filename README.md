@@ -1,7 +1,156 @@
-# NimbleNet
+<a name="readme-top"></a>
+
+<!-- PROJECT SHIELDS -->
+<!--
+*** I'm using markdown "reference style" links for readability.
+*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
+*** See the bottom of this document for the declaration of the reference variables
+*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
+*** https://www.markdownguide.org/basic-syntax/#reference-style-links
+-->
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
+
+
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://github.com/Neumann-Labs/NimbleNet">
+    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  </a>
+
+<h3 align="center">NimbleNet</h3>
+
+  <p align="center">
+    NimbleNet is a lightweight, optimized Neural Network Framework written from scratch in C++
+    <br />
+    <a href="https://github.com/Neumann-Labs/NimbleNet"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/Neumann-Labs/NimbleNet">View Demo</a>
+    ·
+    <a href="https://github.com/Neumann-Labs/NimbleNet/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+    ·
+    <a href="https://github.com/Neumann-Labs/NimbleNet/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+  </p>
+</div>
+
+
+
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#usage">Usage</a></li>
+    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#contact">Contact</a></li>
+    <li><a href="#acknowledgments">Acknowledgments</a></li>
+  </ol>
+</details>
+
+
+
+<!-- ABOUT THE PROJECT -->
+## About The Project
+
+*** [![Product Name Screen Shot][product-screenshot]](https://example.com) ***
+
 NimbleNet is a lightweight, optimized Neural Network Framework written from scratch in C++.
 
-## Roadmap/Architecture Checklist :
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+### Built With
+
+* [![C++][Cpp]][Cpp-url]
+* [![CMake][CMake]][Cmake-url]
+* [![Cuda][Cuda]][Cuda-url]
+* [![OpenCL][OpenCL]][OpenCL-url]
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+<!-- GETTING STARTED -->
+## Getting Started
+
+This is an example of how you may give instructions on setting up your project locally.
+To get a local copy up and running follow these simple example steps.
+
+### Prerequisites
+
+This is an example of how to list things you need to use the software and how to install them.
+* C++
+  - If you run a modern operating system, odds are C++ is already
+  installed on your machine. You can check for it by running the following
+  command in a terminal: 
+   ```sh
+   g++ --version
+   ```
+  - If you do not get a version output, follow the [instructions for installing C++](https://www.learncpp.com/cpp-tutorial/installing-an-integrated-development-environment-ide/)
+
+* Cmake
+  - [CMake install instructions](https://cliutils.gitlab.io/modern-cmake/chapters/intro/installing.html)
+
+* Cuda (Optional for Nvidia GPU acceleration)
+  - [Windows Cuda Install Instructions](https://docs.nvidia.com/cuda/cuda-installation-guide-microsoft-windows/index.html)
+  - [Linux Install Instructions](https://docs.nvidia.com/cuda/cuda-installation-guide-linux/)
+
+* OpenCL (Optional for Non-Nvidia GPU acceleration)
+  - [Windows OpenCL Install Instructions](https://github.com/KhronosGroup/OpenCL-Guide/blob/main/chapters/getting_started_windows.md)
+  - [Linux OpenCL Install Instructions](https://github.com/KhronosGroup/OpenCL-Guide/blob/main/chapters/getting_started_linux.md)
+  
+### Installation
+
+1. Clone the repo
+   ```sh
+   git clone https://github.com/Neumann-Labs/NimbleNet.git
+   ```
+   
+2. Build with CMake
+   ```sh
+   cmake make
+   ```
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+<!-- USAGE EXAMPLES -->
+## Usage
+
+Coming Soon
+
+*** _For more examples, please refer to the [Documentation](https://example.com)_ ***
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+<!-- ROADMAP -->
+## Roadmap
+
 
 1. Core Components:
    - [ ] Tensor Library:
@@ -77,3 +226,79 @@ NimbleNet is a lightweight, optimized Neural Network Framework written from scra
    - [ ] Write comprehensive API documentation
    - [ ] Provide tutorials and examples for common use cases
    - [ ] Set up continuous integration and continuous deployment (CI/CD) pipeline
+
+See the [open issues](https://github.com/Neumann-Labs/NimbleNet/issues) for a full list of proposed features (and known issues).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTRIBUTING -->
+## Contributing
+
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
+Don't forget to give the project a star! Thanks again!
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+<!-- LICENSE -->
+## License
+
+Distributed under the MIT License. See `LICENSE.txt` for more information.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+<!-- CONTACT -->
+## Contact
+
+Your Name - [@nicholicaron](https://twitter.com/nicholicaron) - nicholi@neumann-labs.com
+
+Project Link: [https://github.com/Neumann-Labs/NimbleNet](https://github.com/Neumann-Labs/NimbleNet)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+<!-- ACKNOWLEDGMENTS -->
+## Acknowledgments
+
+* [Andrej Karpathy](https://www.youtube.com/@AndrejKarpathy)
+* ["Understanding Deep Learning" by Simon J. D. Prince](https://udlbook.github.io/udlbook/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/Neumann-Labs/NimbleNet.svg?style=for-the-badge
+[contributors-url]: https://github.com/Neumann-Labs/NimbleNet/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Neumann-Labs/NimbleNet.svg?style=for-the-badge
+[forks-url]: https://github.com/Neumann-Labs/NimbleNet/network/members
+[stars-shield]: https://img.shields.io/github/stars/Neumann-Labs/NimbleNet.svg?style=for-the-badge
+[stars-url]: https://github.com/Neumann-Labs/NimbleNet/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Neumann-Labs/NimbleNet.svg?style=for-the-badge
+[issues-url]: https://github.com/Neumann-Labs/NimbleNet/issues
+[license-shield]: https://img.shields.io/github/license/Neumann-Labs/NimbleNet.svg?style=for-the-badge
+[license-url]: https://github.com/Neumann-Labs/NimbleNet/blob/master/LICENSE.txt
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/nicholicaron
+[product-screenshot]: images/screenshot.png
+[Cpp]:https://img.shields.io/badge/-C++-blue?logo=cplusplus
+[Cpp-url]: https://cplusplus.com/
+[Cuda]: https://img.shields.io/badge/cuda-12.2-green
+[Cuda-url]: https://developer.nvidia.com/cuda-toolkit
+[OpenCL]: https://img.shields.io/badge/OpenCL-pink
+[OpenCL-url]: https://www.khronos.org/opencl/
+[CMake]: https://img.shields.io/badge/cmake-purple
+[CMake-url]: https://cmake.org/
