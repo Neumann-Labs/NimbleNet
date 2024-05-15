@@ -286,8 +286,8 @@ Website: [https://www.neumann-labs.com/](https://github.com/Neumann-Labs/NimbleN
 [stars-url]: https://github.com/Neumann-Labs/NimbleNet/stargazers
 [issues-shield]: https://img.shields.io/github/issues/Neumann-Labs/NimbleNet.svg?style=for-the-badge
 [issues-url]: https://github.com/Neumann-Labs/NimbleNet/issues
-[license-shield]: https://img.shields.io/github/license/Neumann-Labs/NimbleNet.svg?style=for-the-badge
-[licnse-url]: https://github.com/Neumann-Labs/NimbleNet/blob/master/LICENSE.txt
+[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge 
+[licnse-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/nicholicaron
 [product-screenshot]: images/screenshot.png
