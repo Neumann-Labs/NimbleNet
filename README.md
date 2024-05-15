@@ -62,8 +62,8 @@
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
+    <li><a href="#license">License</a>License</li>
+    <li><a href="#contact">Contact</a>Contact</li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
@@ -162,25 +162,14 @@ Coming Soon
      - [x] Implement gradient zeroing
    - [ ] Operator Library:
      - [x] Implement basic math operators (+, -, *, /, etc.)
-     - [ ] Implement matrix multiplicati[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txton
+     - [ ] Implement matrix multiplication
      - [ ] Implement convolution operator
      - [ ] Implement pooling operators (max, average)
      - [ ] Implement activation functions (ReLU, sigmoid, tanh)
      - [ ] Implement loss functions (MSE, cross-entropy)
 
 2. Neural Network Layers:
-   - [x] Implement fully connected layer# Released under MIT License
-
-Copyright (c) 2013 Mark Otto.
-
-Copyright (c) 2017 Andrew Fong.
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+   - [x] Implement fully connected layer
    - [ ] Implement convolutional layer
    - [ ] Implement recurrent layers (RNN, LSTM, GRU)
    - [ ] Implement attention mechanism
@@ -258,7 +247,7 @@ Don't forget to give the project a star! Thanks again!
 
 
 <!-- LICENSE -->
-##cense 
+## License 
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
