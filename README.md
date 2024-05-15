@@ -21,7 +21,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Neumann-Labs/NimbleNet">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/logo.png" alt="Logo" width="240" height="80">
   </a>
 
 <h3 align="center">NimbleNet</h3>
@@ -73,8 +73,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-*** [![Product Name Screen Shot][product-screenshot]](https://example.com) ***
-
 NimbleNet is a lightweight, optimized Neural Network Framework written from scratch in C++.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -95,7 +93,6 @@ NimbleNet is a lightweight, optimized Neural Network Framework written from scra
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
@@ -142,7 +139,7 @@ This is an example of how to list things you need to use the software and how to
 
 Coming Soon
 
-*** _For more examples, please refer to the [Documentation](https://example.com)_ ***
+ _For more examples, please refer to the [Documentation](https://neumann-labs.com/nimblenet)_ 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -165,7 +162,8 @@ Coming Soon
      - [x] Implement gradient zeroing
    - [ ] Operator Library:
      - [x] Implement basic math operators (+, -, *, /, etc.)
-     - [ ] Implement matrix multiplication
+     - [ ] Implement matrix multiplicati[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
+[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txton
      - [ ] Implement convolution operator
      - [ ] Implement pooling operators (max, average)
      - [ ] Implement activation functions (ReLU, sigmoid, tanh)
@@ -250,7 +248,7 @@ Don't forget to give the project a star! Thanks again!
 
 
 <!-- LICENSE -->
-## License
+##cense 
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
@@ -261,9 +259,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@nicholicaron](https://twitter.com/nicholicaron) - nicholi@neumann-labs.com
+Nicholi Caron - [@nicholicaron](https://twitter.com/nicholicaron) - nicholi@neumann-labs.com
 
-Project Link: [https://github.com/Neumann-Labs/NimbleNet](https://github.com/Neumann-Labs/NimbleNet)
+Website: [https://www.neumann-labs.com/](https://github.com/Neumann-Labs/NimbleNet)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -290,7 +288,7 @@ Project Link: [https://github.com/Neumann-Labs/NimbleNet](https://github.com/Neu
 [issues-shield]: https://img.shields.io/github/issues/Neumann-Labs/NimbleNet.svg?style=for-the-badge
 [issues-url]: https://github.com/Neumann-Labs/NimbleNet/issues
 [license-shield]: https://img.shields.io/github/license/Neumann-Labs/NimbleNet.svg?style=for-the-badge
-[license-url]: https://github.com/Neumann-Labs/NimbleNet/blob/master/LICENSE.txt
+[licnse-url]: https://github.com/Neumann-Labs/NimbleNet/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/nicholicaron
 [product-screenshot]: images/screenshot.png
