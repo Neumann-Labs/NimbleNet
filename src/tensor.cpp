@@ -142,4 +142,27 @@ class Tensor {
     	return result;
 		}
 
+	Tensor arange(){ }
+	Tensor where() { }
+	double sum() {}
+	Tensor outer() { }
+	Tensor diag() { }
+	Tensor triu() { }
+	Tensor cumsum() { }
+	Tensor diff() { }
+	Tensor vstack() {} 
+	Tensor roll() { }
+	Tensor flip() { }
+	Tensor compress() {} 
+	Tensor pad_to() {}
+	Tensor sequence_mask() {}
+	Tensor bincount() {}
+	Tensor scatter_add() {}
+	Tensor flatten() {}
+	Tensor linspace() {}
+	Tensor heaviside() {}
+	Tensor repeat() {}
+	Tensor bucketize() {}
+	
+
 };
