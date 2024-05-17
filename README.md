@@ -271,6 +271,7 @@ Website: [https://www.neumann-labs.com/](https://github.com/Neumann-Labs/NimbleN
 
 * [Andrej Karpathy](https://www.youtube.com/@AndrejKarpathy)
 * ["Understanding Deep Learning" by Simon J. D. Prince](https://udlbook.github.io/udlbook/)
+* [Alexander Rush](https://github.com/srush)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
