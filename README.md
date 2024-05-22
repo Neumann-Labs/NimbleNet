@@ -151,9 +151,9 @@ Coming Soon
 
 1. Core Components:
    - [ ] Tensor Library:
-     - [ ] Implement multi-dimensional array class
+     - [x] Implement multi-dimensional array class
      - [ ] Implement element-wise operations
-     - [ ] Implement broadcasting
+     - [x] Implement broadcasting
      - [ ] Implement memory management
    - [ ] Autograd Engine:
      - [x] Implement reverse-mode autodiff
